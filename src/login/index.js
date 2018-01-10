@@ -3,8 +3,8 @@ import React from "react";
 export class Login extends React.Component {
 
     loginDetails = {
-        userName: 'Pullarao',
-        password: 'Kamma'
+        userName: 'test',
+        password: 'test'
     }
 
     constructor(props) {
